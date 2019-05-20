@@ -1,5 +1,7 @@
 # chessitems
 
+Little experiment with Vue JS to display Dota Auto Chess Item combinations.
+
 ## Project setup
 ```
 npm install
